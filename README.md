@@ -24,7 +24,7 @@ There are two differences from the original game:
 Hasegawa established the Japan Othello Association on March 1973, and held the first national Othello championship on April 4, 1973 in Japan. The Japanese game company Tsukuda Original launched Othello in late April, 1973 in Japan under Hasegawa’s license, which led to an immediate commercial success.
 
 The name was selected by Hasegawa as a reference to the Shakespearean play Othello, the Moor of Venice, referring to the conflict between the Moor Othello and Iago, and more controversially, to the unfolding drama between Othello, who is black, and Desdemona, who is white. The green color of the board is inspired by the image of the general Othello, valiantly leading his battle in a green field. It can also be likened to a jealousy competition (jealousy being the central theme in Shakespeare's play), since players engulf the pieces of the opponent, thereby turning them to their possession.
-Board.jpg
+
 
 Othello was first launched in the U.S. in 1975 by Gabriel Industries and it also enjoyed commercial success there. Reportedly, Othello game sales have exceeded $600 million and more than 40 million classic games have been sold in over 100 different countries.
 
@@ -33,7 +33,7 @@ Hasegawa also wrote How to Othello (Osero No Uchikata) in Japan in 1974, which w
 Kabushiki Kaisha Othello, which is owned by Hasegawa, registered the trademark "OTHELLO" for board games in Japan and Tsukuda Original registered the mark in the rest of the world. All intellectual property regarding Othello outside Japan is now owned by MegaHouse, a Japanese toy company that acquired PalBox, the successor to Tsukuda Original.
 
 MegaHouse has gratefully acknowledged the late James R. Becker and Anjar Co. for their role in successfully marketing, licensing, selling, promoting, distributing, and popularizing OTHELLO branded products in the U.S. and around the world outside Japan since 1975.
-#How to Play
+# How to Play
 
 # Setup
 
@@ -61,7 +61,7 @@ When a player has no valid moves, he pass his turn and the opponent continues.
 A player can not voluntarily forfeit his turn.
 
 When both players can not make a valid move the gane ends.
-#Valid Moves
+# Valid Moves
 
 Black always moves first.
 
