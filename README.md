@@ -1,18 +1,18 @@
 # The_othello-reversi_game
 
-#Overview 
+# Overview 
 
 Reversi or Othello is a strategy board game for two players, played on an 8×8 uncheckered board. There are sixty-four identical game pieces called disks (often spelled "discs"), which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up. During a play, any disks of the opponent's color that are in a straight line and bounded by the disk just placed and another disk of the current player's color are turned over to the current player's color.
 
 The object of the game is to have the majority of disks turned to display your color when the last playable empty square is filled.
 
 Reversi was most recently marketed by Mattel under the trademark Othello.
-#History
-#Original version
+# History
+# Original version
 
 The game Reversi was invented in 1883 by either of two Englishmen (each claiming the other a fraud), Lewis Waterman or John W. Mollett (or perhaps earlier by someone else entirely), and gained considerable popularity in England at the end of the nineteenth century. The game's first reliable mention is in the August twenty-first 1886 edition of The Saturday Review. Later mention includes an 1895 article in The New York Times: "Reversi is something likeGo Bang, and is played with 64 pieces. In 1893, the well-known German games publisher Ravensburger started producing the game as one of its first titles. Two 18th-century continental European books dealing with a game that may or may not be Reversi are mentioned on page fourteen of the Spring 1989 Othello Quarterly, and there has been speculation, so far without documentation, that the game has even more ancient origins.
 
-#Modern version
+# Modern version
 
 The modern version of the game — the most regularly used rule-set, and the one used in international tournaments — is marketed and recognized as Othello. It was patented in Japan in 1971 by Goro Hasegawa (ja) (autonym: Satoshi Hasegawa), then a 38-year-old salesman.[5]
 
@@ -35,7 +35,7 @@ Kabushiki Kaisha Othello, which is owned by Hasegawa, registered the trademark "
 MegaHouse has gratefully acknowledged the late James R. Becker and Anjar Co. for their role in successfully marketing, licensing, selling, promoting, distributing, and popularizing OTHELLO branded products in the U.S. and around the world outside Japan since 1975.
 #How to Play
 
-#Setup
+# Setup
 
 The board will start with 2 black discs and 2 white discs at the centre of the board.
 
@@ -45,7 +45,7 @@ White is forming a North-West to South-East direction.
 
 
 
-#Game Play
+# Game Play
 
 Othello is a strategy board game played between 2 players. One player plays black and the other white.
 
@@ -87,7 +87,7 @@ If you can't outflank and flip at least one opposing disc, you must pass your tu
 Once a disc has been placed on a square, it can never be moved to another square later in the game.
 
 When a player runs out of discs, but still has opportunities to outflank an opposing disc, then the opponent must give the player a disc to use.
-#End of the game
+# End of the game
 
 When it is no longer possible for either player to move, the game is over.
 
