@@ -1,6 +1,6 @@
 # The_othello-reversi_game
 
-It uses MINIMAX Algorithm to commpute optimal move and optimal score. The alpha/beta pruning makes program more efficient.
+It uses MINIMAX Algorithm to compute the best possible move and optimal score. The alpha/beta pruning makes the program more efficient.
 
 # Overview 
 
