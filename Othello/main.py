@@ -1,4 +1,4 @@
-import mp520 as mp
+import Reversi as mp
 import time
 
 
